@@ -17,3 +17,7 @@ toggle.addEventListener("click", function() {
     // }
     menu.classList.toggle("active");
 })
+
+AOS.init({
+    duration: 1000,
+});
