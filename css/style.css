@@ -120,6 +120,9 @@ nav .menu li a:hover {
     flex-wrap: wrap;
     align-items: center;
 }
+#home h1 {
+    color: black
+}
 
 #home .home-img,
 #home .home-content {
